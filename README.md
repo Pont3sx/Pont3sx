@@ -3,8 +3,11 @@
 ## 🧠 Sobre mim
 
 🎓 Estudante de programação (IFCE)
+
 💻 Focada em Java e desenvolvimento web  
+
 🎯 Em evolução constante
+
 💡 Gosto de criar projetos práticos para evoluir
 
 ---
