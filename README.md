@@ -1,4 +1,4 @@
-# Olá, Eu sou a Samily Pontes!
+# 👋 Olá, Eu sou a Samily Pontes!
 
 ## 🧠 Sobre mim
 
