@@ -24,12 +24,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pont3sx&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contato
 
 💬 Vamos nos conectar!
